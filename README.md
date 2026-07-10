@@ -287,3 +287,43 @@ Possible enhancements include:
 🔗 GitHub: https://github.com/AlAkbar44
 
 If you find this project useful, don't forget to ⭐ the repository!
+
+# 📸 Project Results
+
+## ☁️ Word Cloud
+
+<p align="center">
+  <img src="wordcloud_all.png" width="700">
+</p>
+
+---
+
+## 📊 Top 20 Most Frequent Words
+
+<p align="center">
+  <img src="top20_words.png" width="700">
+</p>
+
+---
+
+## 📉 Elbow Method & Silhouette Score
+
+<p align="center">
+  <img src="elbow_silhouette.png" width="700">
+</p>
+
+---
+
+## 🔥 Cluster Validation (Confusion Matrix)
+
+<p align="center">
+  <img src="confusion_matrix_cluster_vs_rule.png" width="700">
+</p>
+
+---
+
+## 📦 Rating & Review Length Distribution by Cluster
+
+<p align="center">
+  <img src="boxplot_per_cluster.png" width="700">
+</p>
