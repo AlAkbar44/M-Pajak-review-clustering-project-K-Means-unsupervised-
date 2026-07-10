@@ -1,0 +1,10 @@
+Cluster 0: perintah, buka, sama, susah, npwp, masuk, gagal, sulit, efin, jelek
+Cluster 1: sampah, login, negara, sama, duit, semua, buang, sekali, login susah, anggar
+Cluster 2: pajak, bayar, bayar pajak, lapor, susah, lapor pajak, sulit, pajak sulit, pajak susah, suruh
+Cluster 3: sangat, sangat buruk, sangat bantu, buruk, bantu, sangat sulit, sulit, sangat sangat, layan, sistem
+Cluster 4: login, susah, login susah, susah login, padahal, nik, password, web, npwp, gabisa
+Cluster 5: kode, verifikasi, email, kirim, kode verifikasi, masuk, otp, lama, efin, kode otp
+Cluster 6: error, error mulu, mulu, login, sering error, login error, sering, selalu error, buka, selalu
+Cluster 7: daftar, jelas, npwp, susah, daftar npwp, online, daftar susah, sulit, daftar online, gimana
+Cluster 8: eror, eror mulu, mulu, login, sering eror, sering, selalu eror, malah eror, masuk, buka
+Cluster 9: ribet, lapor, spt, lapor spt, spt tahun, tahun, susah, pajak, mudah, jelas

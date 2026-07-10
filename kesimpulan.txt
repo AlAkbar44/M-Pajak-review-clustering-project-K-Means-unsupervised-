@@ -1,0 +1,15 @@
+KESIMPULAN ANALISIS ULASAN M-PAJAK
+========================================
+
+1. Di antara ulasan bermasalah, cluster paling dominan adalah Cluster 0 (3405 ulasan, 50.39% dari subset komplain), dengan kata kunci utama: perintah, buka, sama, susah, npwp.
+
+2. Cluster dengan rata-rata adjusted_score paling rendah adalah Cluster 1 (rata-rata 1.01), didominasi kata: sampah, login, negara, sama, duit.
+
+3. Ditemukan 98 ulasan (1.30%) berating 5 bintang namun isi komentarnya mengindikasikan keluhan teknis, sehingga adjusted_score diturunkan menjadi 1.
+
+4. Secara keseluruhan, 6563 ulasan (86.90%) memiliki adjusted_score rendah (<=2).
+
+5. Dari total 7552 ulasan, 6757 (89.47%) terindikasi ada masalah dan diproses lewat clustering, sedangkan 795 (10.53%) murni positif tanpa indikasi keluhan teknis.
+
+Catatan: Jumlah cluster (K) ditentukan otomatis = 10 berdasarkan silhouette score tertinggi, dihitung hanya dari subset ulasan bermasalah.
+Nama kategori tiap cluster masih perlu divalidasi/diisi manual di CLUSTER_NAME_MAP berdasarkan file 'top_terms_per_cluster.txt'.
